@@ -2,6 +2,8 @@
 
 ## unreleased
 
+* Add guetzli [toy/image_optim#145](https://github.com/toy/image_optim/issues/145) [#8](https://github.com/toy/image_optim_pack/issues/8) [@toy](https://github.com/toy)
+
 ## v0.5.0 (2017-05-06)
 
 * Add gemspec for each platform to also release per platform gems [@toy](https://github.com/toy)
